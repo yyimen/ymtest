@@ -1,4 +1,7 @@
 <?php
+echo "hello";
+echo "<br/>";
+
 echo <<<EOT
     <html>
     <head>
