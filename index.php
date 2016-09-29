@@ -1,5 +1,5 @@
 <?php
-echo "hello4 5";
+echo "hello4 5 6";
 echo "<br/>";
 
 echo <<<EOT
